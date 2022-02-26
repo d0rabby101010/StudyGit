@@ -1,1 +1,2 @@
 commitpushの修正
+githubから設定変更
